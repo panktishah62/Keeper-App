@@ -25,13 +25,13 @@ So, in a nutshell I had a lot of fun while working on this project and I got to 
 #### Clone this repository:
 
 ```bash
-git clone https://github.com/Nishkarsh01/Keeper-App-with-React.git
+git clone https://github.com/panktishah62/Keeper-App.git
 ```
 or download the zip file from github.
 
 After extracting the files, 
 
-* 1  .``cd Keeper-App-with-React`` 
+* 1  .``cd Keeper-App`` 
 * 2  .``npm install``
 * 3  .``npm start``
 
