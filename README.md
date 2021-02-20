@@ -5,7 +5,7 @@ Keeper App is a note-taking app developed with ReactJs.Keeper App is an app wher
 So, in a nutshell I had a lot of fun while working on this project and I got to learn a lot.
 
 ## Developed By
-> Nishkarsh Dubb
+> Pankti Shah
 
 ## Screenshots
 ![App Screenshot](screenshots/1.png)
@@ -35,8 +35,6 @@ After extracting the files,
 * 2  .``npm install``
 * 3  .``npm start``
 
-## Collaborate
-To collaborate, reach me on [nishdubb11@gmail.com]()
 
 ## Further help
 
